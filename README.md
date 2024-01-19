@@ -1,2 +1,2 @@
-# sprinBootStudentmanagementSystem
+# springBootStudentmanagementSystem
 Student Management System
